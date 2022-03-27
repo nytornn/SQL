@@ -1,0 +1,6 @@
+CREATE TABLE demo
+(
+    id SMALLINT NOT NULL PRIMARY KEY,
+    Jmeno VARCHAR(50),
+    Datum DATE 
+);
